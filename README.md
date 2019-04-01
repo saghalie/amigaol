@@ -1,0 +1,2 @@
+# amigaol
+GitHub Pages
